@@ -1,0 +1,18 @@
+<div class="todos-bg-container">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 class="todos-heading">Todos</h1>
+                    <h1 class="create-task-heading">
+                        Create <span class="create-task-heading-subpart">Task</span>
+                    </h1>
+                    <input type="text" id="todoUserInput" class="todo-user-input" />
+                    <button class="add-todo-button">Add</button>
+                    <h1 class="todo-items-heading">
+                        My <span class="todo-items-heading-subpart">Tasks</span>
+                    </h1>
+                    <ul class="todo-items-container" id="todoItemsContainer"></ul>
+                </div>
+            </div>
+        </div>
+    </div>
